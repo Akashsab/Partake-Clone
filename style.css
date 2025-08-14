@@ -1,0 +1,468 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.row1
+{
+    width: 100%;
+    
+    background-image: url(width_1600_d428f459-0ba8-434e-b4ee-c29af6adf08b_1500x.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 1290px;
+    background-position: center;
+
+}
+.subr1
+{
+    width: 100%;
+    display:flex;
+}
+.in
+{
+    padding: 10px;
+    margin-left: 30px;    
+}
+.column1, .column2, .column3
+{
+    width: 33%;
+   
+}
+.is, .lis
+{
+    display: inline;
+    color: rgb(0, 80, 153);
+    
+    float: left;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.column2
+{
+   padding-left: 150px;
+   padding-top: 20px;
+}
+.search 
+{
+    color: rgb(0, 80, 153);
+    padding-left: 80px;
+    
+}
+.subr2
+{
+    width: 100%;
+    margin-top: 180px;
+    
+    
+}
+.head
+{
+    color: rgb(0, 80, 153);
+    padding-left: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.b1 
+{
+    margin-left: 50px;
+    padding: 10px;
+    border-radius: 25px;
+    height: 50px;
+    width: 180px;
+    border: 0px;
+    background-color: rgb(247, 185, 225);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 15px;
+}
+.row2
+{
+    width: 100%;
+    display: flex;
+    height: 76.2vh;
+}
+.column4, .column5, .column6
+{
+    width: 33%;
+    text-align: center;
+    color: rgb(0, 80, 153);
+    
+
+}
+.cook
+{
+    font-size: 35px;
+}
+.dis
+{
+    font-weight: bolder;
+}
+.u1 
+{
+    text-decoration-color: white;
+    text-decoration-thickness: 5px;
+}
+
+.column4
+{
+    background-color: rgb(247, 185, 225);
+}
+.column5
+{
+    background-color: rgb(96, 207, 148);
+}
+.column6
+{
+    background-color: rgb(171, 219, 233);
+}
+.row3
+{
+    width: 100%;
+}
+.subr3
+{
+    width: 100%;
+    display: inline;
+    text-align: center;
+    color:rgb(0, 80, 153);
+}
+.share
+{
+    font-size: 45px;
+}
+.all
+{
+    font-size: 25px;
+}
+.subr4
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.ban
+{
+    color: rgb(0, 80, 153);
+    justify-content: center;
+
+}
+.par
+{
+    color:rgb(0, 80, 153);
+}
+.row4
+{
+    width: 100%;
+    display: flex;
+    background-color: rgb(145, 223, 185);
+    height: 100vh;
+}
+.column7
+{
+    width: 50%;
+    color: rgb(0, 80, 153);
+    padding-top: 50px;
+
+}
+.ing
+{
+    padding-left: 50px;
+    font-size: 45px;
+}
+.of
+{
+    padding-left: 50px;
+    font-size: 25px;
+}
+.u2 
+{
+    border: 0px;
+    background-color: transparent;
+    padding-left: 50px;
+    color: rgb(0, 80, 153);
+    font-weight: bolder;
+    font-size: 17px;
+    text-decoration-color: white;
+    text-decoration-thickness: 5px;
+
+    
+}
+.column8
+{
+    width: 50%;
+    padding-top: 40px;
+}
+.subr5, .subr6
+{
+    width: 100%;
+    display: flex;
+}
+.row5
+{
+    width: 100%;
+}
+.subr7
+{
+    width: 100%;
+    color:  rgb(0, 80, 153);
+    font-size: 30px;
+    
+    
+}
+.what
+{
+    padding-left: 50px;
+}
+.subr8
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.subcl16, .subcl17, .subcl18
+{
+    width: 30%;
+    background-color: rgb(245, 245, 245);
+    height: 435px;
+    margin-left: 20px;
+    
+}
+.subcl16
+{
+    margin-left: 50px;
+}
+.subcl18
+{
+    margin-right: 50px;
+}
+.soft
+{
+  text-align: center;
+  color: rgb(0, 80, 153);
+  font-size: 22px; 
+}
+pre
+{
+    color:  rgb(0, 80, 153);
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.row6
+{
+    width: 100%;
+}
+.subr9
+{
+    width: 100%;
+    background-color:  rgb(0, 80, 153);
+    color: white;
+    text-align: center;
+    
+   
+}
+.part
+{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.fin
+{
+    text-decoration-thickness: 5px;
+    text-decoration-color: rgb(66, 197, 190);
+    font-size: 20px;
+
+}
+.subr10
+{
+    width: 100%;
+    display: flex;
+}
+.subcl19
+{
+    width: 50%;
+    padding-left: 200px;
+}
+.subcl20
+{
+    width: 50%;
+}
+.comma
+{
+    padding-left: 150px;
+    color: rgb(247, 185, 225);
+    font-size: 100px;
+   
+}
+.kris
+{
+    color:  rgb(0, 80, 153);
+    font-size: 25px;
+    
+   
+}                                                                                                                                                                                                                                                                                         
+.row7
+{
+    width: 100%;
+    display: flex;
+}
+.column9
+{
+    width: 60%;
+    background-image: url(Denise_Feb2022-web.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 140%;
+}
+.column10
+{
+    width: 50%;
+    background-color: rgb(146, 202, 214);
+    color: rgb(35, 94, 107);
+    padding: 50px;
+    height: 73.2vh;
+}
+.build
+{
+    font-size: 45px;
+}
+.portion
+{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.champ
+{
+    font-size: 20px;
+}
+.read
+{
+    text-decoration-thickness: 5px;
+    font-size: 20px;
+}
+.row8
+{
+    width: 100%;
+}
+.subr11
+{
+    width: 100%;
+    display: flex;
+}
+.subcl21, .subcl22, .subcl23
+{
+    background-repeat: no-repeat;
+    width: 34%;
+    background-position: center;
+    height: 70vh;
+    background-size: 420px;
+    
+}
+.subr12
+{
+    width: 100%;
+    text-align: center;
+    color:  rgb(0, 80, 153);
+
+}
+.at 
+{
+    font-size: 55px;
+}
+.follow
+{
+    font-weight: bolder;
+    font-size: 17px;
+}
+.row9
+{
+    width: 100%;
+    display: flex;
+    background-color: rgb(35, 94, 107);
+    height: 75vh;
+}
+.column11
+
+{
+    width: 50%;
+    
+    color: white;
+    padding-left: 50px;
+    padding-top: 60px;
+    font-size: 18px;
+}
+.left, .last
+{
+    list-style: none;
+    line-height: 40px;
+    
+}
+.last{
+    padding-right: 200px;
+}
+.subr13
+{
+    width: 100%;
+    display: flex;
+    height: 50%;
+}
+.subr14
+{
+    width: 100%;
+    display: flex;
+
+}
+.subr15
+{
+    width: 100%;
+    display: inline;
+}
+.copy
+{
+    color: rgb(160, 219, 232);
+    font-size: 13px;
+}
+.column12
+{
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 450px;
+    color: white;
+}
+.subr16
+{
+    width: 100%;
+}
+.subr17
+{
+    width: 100%;
+    display: flex;
+}
+.subr18
+{
+    width: 100%;
+    color: white;
+    font-size: 20px;
+}
+.up
+{
+    font-size: 15px;
+    color: rgb(160, 219, 232);
+}
+.add
+{
+    text-decoration-thickness: 5px;
+    text-underline-position: below;
+}
+
+
